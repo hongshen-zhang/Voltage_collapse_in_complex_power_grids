@@ -11,7 +11,7 @@
 
 Figure 2 
 
-![avatar][base64str]
+![avatar](/figure_all/figure2.png)
 
 Note that there may be difference of "the sorted and grouped by connected components of the subgraph". The result is a littble bit different but not crucial.
 
