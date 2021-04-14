@@ -11,15 +11,35 @@
 
 Figure 2 
 
-![avatar][base64str]
+![avatar](/figure_all/figure2.png)
 
 Note that there may be difference of "the sorted and grouped by connected components of the subgraph". The result is a littble bit different but not crucial.
 
 ----
 
+Table 1
 
+![avatar](/figure_all/table1.png)
+
+Some cases is well-fitted, but others are not, there might be some misunderstanding in the paper.
 
 ----
+
+Figure 3
+
+![avatar](/figure_all/figure3.png)
+
+Why its the delta of raw paper is not a line? (scalar would let the delta multiply linearly).
+
+----
+
+Figure 4
+
+![avatar](/figure_all/figure4.png)
+
+The picture looked better since ylim are different.
+
+-----
 
 The detailed information about the paper can be viewed at 
 >Cite information : Simpson-Porco J W, Dörfler F, Bullo F. Voltage collapse in complex power grids[J]. Nature communications, 2016, 7(1): 1-8.
