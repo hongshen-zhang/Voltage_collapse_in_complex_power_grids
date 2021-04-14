@@ -11,7 +11,7 @@
 
 Figure 2 
 
-{r label, out.width = "85%", fig.cap = "caption"} include_graphics("figure2.pdf")
+![hustlin_erd](figure2.pdf) 
 
 Note that there may be difference of "the sorted and grouped by connected components of the subgraph". The result is a littble bit different but not crucial.
 
