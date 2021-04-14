@@ -37,7 +37,7 @@ Figure 4
 
 ![avatar](/figure_all/figure4.png)
 
-The picture looked better since the Q_load become the major part.
+The picture looked better since ylim are different.
 
 -----
 
