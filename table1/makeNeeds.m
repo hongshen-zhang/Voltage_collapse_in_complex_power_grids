@@ -62,7 +62,6 @@ for i = 1 : length(gen(:,1))
 end
 
 V_load_star =  -inv(B_LL) * (B_LG * V_G + I_shunt.');
-%V_load_star =  -inv(B_LL) * (B_LG * V_G);
 
 %another pattern get V_load_star
 

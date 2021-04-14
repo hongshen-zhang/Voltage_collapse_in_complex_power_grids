@@ -1,5 +1,5 @@
 %Recurrent figure 2
-[Ybus_all,B_LL,B_LG,V_load_star,Q_cirt,Q_load] = makeNeeds(case57);
+[Ybus_all,B_LL,B_LG,V_load_star,Q_cirt,Q_load] = makeNeeds(high_vol(case57));
 
 num = 50;
 B = zeros(num);
@@ -15,7 +15,6 @@ end
 
 modules = simple_spectral_partitioning(B,[50]);
 list = modules{1};
-list = flip(list)
 
 for i_loop = 1 : 50
     for j_loop = 1 : 50
