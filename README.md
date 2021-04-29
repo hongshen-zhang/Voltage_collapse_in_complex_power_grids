@@ -13,22 +13,34 @@ Most result of paper can be well recurrented, even though there might be small t
  
 ----
 ## Figure 2 
+
 Run `/figure2/figure2_main.m`
 ![figure2](/figure_all/figure2.png)
+
 Note that there may be difference of "the sorted and grouped by connected components of the subgraph". The result is a littble bit different but not crucial.
+
 ----
 ## Table 1
+
 Run `/table1/table1_main.m`
 ![Table1](/figure_all/table1.png)
+
 Some cases is well-fitted, but others are not, there might be some misunderstanding in the paper.
+
 ----
 ## Figure 3
+
 Run `/figure3/figure3_main.m`
+
 ![figure3](/figure_all/figure3.png)
+
 Why its the delta of raw paper is not a line? (scalar would let the delta multiply linearly).
+
 ----
 ## Figure 4
+
 Run `/figure4/figure4_main.m`
+
 ![avatar](/figure_all/figure4.png)
 
 
