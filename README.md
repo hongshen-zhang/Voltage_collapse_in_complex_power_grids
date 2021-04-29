@@ -22,24 +22,24 @@ Most result of paper can be well recurrented, even though there might be small t
 ----
 ## Table 1
 
-Run `/table1/table1_main.m`
+- Run `/table1/table1_main.m`
 ![Table1](/figure_all/table1.png)
 
-Some cases is well-fitted, but others are not, there might be some misunderstanding in the paper.
+- Some cases is well-fitted, but others are not, there might be some misunderstanding in the paper.
 
 ----
 ## Figure 3
 
-Run `/figure3/figure3_main.m`
+- Run `/figure3/figure3_main.m`
 
 ![figure3](/figure_all/figure3.png)
 
-Why its the delta of raw paper is not a line? (scalar would let the delta multiply linearly).
+- Why its the delta of raw paper is not a line? (scalar would let the delta multiply linearly).
 
 ----
 ## Figure 4
 
-Run `/figure4/figure4_main.m`
+- Run `/figure4/figure4_main.m`
 
 ![avatar](/figure_all/figure4.png)
 
