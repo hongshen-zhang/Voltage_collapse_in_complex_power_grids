@@ -1,4 +1,4 @@
-# [Recurrent of Voltage_collapse_in_complex_power_grids in Nature Communication].(https://github.com/hongshen-zhang/Voltage_collapse_in_complex_power_grids)
+# [Voltage_collapse_in_complex_power_grids].(https://github.com/hongshen-zhang/Voltage_collapse_in_complex_power_grids)
 
 ----
  Recurrent of Voltage collapse in complex power grids in Nature Communication.
