@@ -14,10 +14,10 @@ Most result of paper can be well recurrented, even though there might be small t
 ----
 ## Figure 2 
 
-Run `/figure2/figure2_main.m`
+- Run `/figure2/figure2_main.m`
 ![figure2](/figure_all/figure2.png)
 
-Note that there may be difference of "the sorted and grouped by connected components of the subgraph". The result is a littble bit different but not crucial.
+- Note that there may be difference of "the sorted and grouped by connected components of the subgraph". The result is a littble bit different but not crucial.
 
 ----
 ## Table 1
