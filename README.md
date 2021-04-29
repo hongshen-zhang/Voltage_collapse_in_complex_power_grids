@@ -3,10 +3,6 @@
 ![language](https://img.shields.io/badge/language-matlab-green.svg)
 ![Based](https://img.shields.io/badge/Based-matpower-brightgreen.svg)
 ---
-The detailed information about the paper can be viewed at 
->Cite information : Simpson-Porco J W, Dörfler F, Bullo F. Voltage collapse in complex power grids[J]. Nature communications, 2016, 7(1): 1-8.
-
->Paper website : https://www.nature.com/articles/ncomms10790
 
 ## Recurrent Summarize
 Most result of paper can be well recurrented, even though there might be small tricks on some number of the result. The result can be well finished in high-voltage networks, but it is not suitable for alternative current power flow.
@@ -43,4 +39,8 @@ Most result of paper can be well recurrented, even though there might be small t
 
 ![avatar](/figure_all/figure4.png)
 
+----
+The detailed information about the paper can be viewed at 
+>Cite information : Simpson-Porco J W, Dörfler F, Bullo F. Voltage collapse in complex power grids[J]. Nature communications, 2016, 7(1): 1-8.
 
+>Paper website : https://www.nature.com/articles/ncomms10790
