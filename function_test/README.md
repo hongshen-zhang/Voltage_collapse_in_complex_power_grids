@@ -1,6 +1,6 @@
 # [Recurrent_Voltage_collapse_in_complex_power_grids](https://github.com/hongshen-zhang/Voltage_collapse_in_complex_power_grids)
 
-![language](https://img.shields.io/badge/language-matlab-green.svg)
+![Language](https://img.shields.io/badge/Language-matlab-green.svg)
 ![Based](https://img.shields.io/badge/Based-matpower-brightgreen.svg)
 ---
 
@@ -16,7 +16,7 @@
 
 ### The result for AC power flow is as follow
 
-| node_index | exact_ac_lambda | predict_ac_lambda | error_high |
+| node_index | exact_ac_lambda | predict_ac_lambda | error_ac |
 | :----: | :----: | :----: | :----: |
 | 5 | 4.309 | 10.017 | 132% |
 | 7 | 4.672 | 10.953 | 134% |
